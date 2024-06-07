@@ -1,4 +1,4 @@
-# node-notifier [![NPM version][npm-image]][npm-url] [![Install size][size-image]][size-url] [![Build Status][travis-image]][travis-url]
+# node-notifier
 
 Send cross platform native notifications using Node.js. Notification Center for macOS,
 `notify-osd`/`libnotify-bin` for Linux, Toasters for Windows 8/10, or taskbar balloons for
